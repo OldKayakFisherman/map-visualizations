@@ -1,0 +1,10 @@
+[
+    {
+        "dataset-name": "Virginia Landmarks",
+        "dataset-file": "raw/Virginia_Landmarks.csv",
+        "python-data-pipeline-module": "pipelines.virginia_landmarks",
+        "python-data-pipeline-class": "VirginiaLandmarkPipeline",
+        "api.route": "/api/v1/virginia_landmarks"
+    }
+]
+
